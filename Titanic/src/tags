@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ax1	titanic.py	/^ax1 = fig.add_subplot(141)$/;"	kind:variable	line:70
+ax2	titanic.py	/^ax2 = fig.add_subplot(142, sharey=ax1)$/;"	kind:variable	line:76
+ax3	titanic.py	/^ax3 = fig.add_subplot(143, sharey=ax1)$/;"	kind:variable	line:82
+ax4	titanic.py	/^ax4 = fig.add_subplot(144, sharey=ax1)$/;"	kind:variable	line:88
+data_train	titanic.py	/^data_train = pd.read_csv("..\/data\/train.csv")$/;"	kind:variable	line:10
+df	titanic.py	/^df = pd.DataFrame({'男性': survived_m, '女性': survived_f})$/;"	kind:variable	line:60
+df	titanic.py	/^df = pd.DataFrame({'获救': embarkedSurvived, '未获救': embarkedDead})$/;"	kind:variable	line:96
+df	titanic.py	/^df = pd.DataFrame({u"获救": pclassSurvived, u"未获救": pclassDead})$/;"	kind:variable	line:52
+fig	titanic.py	/^fig = plt.figure()$/;"	kind:variable	line:13
+fig	titanic.py	/^fig = plt.figure()$/;"	kind:variable	line:67
+titanic.py	titanic.py	1;"	kind:file	line:1
